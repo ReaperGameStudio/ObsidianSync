@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "abf3c8523e0be8ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb6b825ac10a81e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a71ac2d337c12f65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily Notes/2024-10-13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c4595d3d09169b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "47c5825ddbf6c522",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90afa9df96fdc2f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f27c5df7f84afa7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbfa720ba096b3a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "331ed332dde3933a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e0c7dfbaf0ada6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7dd22d509f4d79a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06 - Daily Notes/2024-10-13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "828bd7c8f9959f2f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06 - Daily Notes/2024-10-13.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be7f5fbc8c48424b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6366ffd6b25aaa04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "06 - Daily Notes/2024-10-13.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "a71ac2d337c12f65",
+  "lastOpenFiles": [
+    "00 - Programming/All Programming Path.md",
+    "02 - Learning/00 - Learning Plan.md",
+    "01 - Powershell/DevOps Practices with PowerShell.md",
+    "01 - Powershell/PowerShell with AI.md",
+    "00 - AI Tools/AI Tools to Look at.md",
+    "00 - AI Tools",
+    "01 - CLI/Azure DevOps CLI.md",
+    "01 - CLI",
+    "02 - Learning/edx.org.md",
+    "02 - O'Reilly Learning/O'Reilly List.md",
+    "02 - O'Reilly Learning",
+    "06 - Daily Notes/2024-10-13.md",
+    "Untitled.canvas",
+    "01 - Python",
+    "00 - Azure DevOps/Azure DevOps Roadmap.md",
+    "02 - MS Applied Skills/MS Applied Skills Training.md",
+    "02 - Free Online Learning/mslearn.md",
+    "02 - MS Applied Skills",
+    "02 - Free Online Learning/01 - Learning Plan",
+    "00 - Azure DevOps",
+    "00 - Cloud Design Patterns/Well Architected Framework.md",
+    "00 - Cloud Design Patterns/00 - Cloud Design Patterns.md",
+    "00 - Cloud Native/00 - Cloud Native.md",
+    "00 - Cloud Design Patterns",
+    "00 - Cloud Native/Cloud Native App Delivery.md",
+    "00 - PIpeline Maturity/Untitled.md",
+    "00 - Cloud Native/Cloud Native Maturity Model.md",
+    "00 - Cloud Native",
+    "01 - Powershell",
+    "00 - PIpeline Maturity/Main.md",
+    "00 - PIpeline Maturity/Flow.md",
+    "PIpeline Maturity/Untitled.md",
+    "00 - PIpeline Maturity/Top Level Variables.md",
+    "00 - PIpeline Maturity/Steps.md",
+    "00 - PIpeline Maturity/Jobs.md",
+    "00 - PIpeline Maturity/Stages.md",
+    "00 - PIpeline Maturity/Top Level.md"
+  ]
+}

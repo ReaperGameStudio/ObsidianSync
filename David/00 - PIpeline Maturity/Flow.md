@@ -1,0 +1,1 @@
+All Pipelines initially start from the [[Top Level]] where [[Top Level Variables]] are read in and passed into [[Main]].  The intent of [[Top Level]] is to be a minimal interface into the underlying templates used to ensure we have repeatability in how every pipeline that uses these templates executes.
